@@ -37,5 +37,9 @@ webser is ready to serve!
 server running. use ctrl+c to stop
 ```
 
-*Note* there is no further logging during FFT analysis or streaming, to stay performant as possible
+*Note:* there is no further logging during FFT analysis or streaming, to stay performant as possible
+
+## Further
+
+you can now build an WebUI to display this data in any way. If you are looking for an example you can check my [vj-webapp-example](https://github.com/straczowski/vj-webapp-example) repository
 
